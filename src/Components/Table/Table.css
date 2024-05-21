@@ -1,0 +1,14 @@
+.all-list{
+    cursor: pointer;
+}
+.all-list li a{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+table{
+    box-shadow: 10px 10px 30px 0px rgba(121, 117, 117, 0.5);
+}
+
+
+
